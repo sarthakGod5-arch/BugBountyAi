@@ -1,4 +1,4 @@
-# SARTHAK HA MINI LAI AAGODAR BANAVELEA HOTA MALA YAT groq cha error yet hota mini fix karacha pretna kelta pan nai zala tu try kar
+
 
 
 # AI-Bug-Bounty
@@ -128,6 +128,7 @@ sql_injection:
 - `report_generator.py`: Generates PDF reports of scan results
 - `plugins/`: Directory containing all scanning plugins
 - `Dockerfile`: Defines the Docker image for the project
+
 
 
 
