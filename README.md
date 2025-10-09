@@ -1,3 +1,6 @@
+# SARTHAK HA MINI LAI AAGODAR BANAVELEA HOTA MALA YAT groq cha error yet hota mini fix karacha pretna kelta pan nai zala tu try kar
+
+
 # AI-Bug-Bounty
 
 An advanced, AI-powered tool for automated vulnerability scanning and bug bounty hunting.
@@ -118,14 +121,6 @@ sql_injection:
 
 ### Creating Plugin Documentation
 
-To create documentation for your plugin, follow these steps:
-
-1. Create a new Markdown file in the `docs/plugins` directory (e.g., `my_plugin.md`)
-2. Document the plugin's functionality, configuration options, and usage examples.
-3. Link the documentation file in the main `README.md` or a dedicated `docs/README.md` file.
-
-## Project Structure
-
 - `main.py`: Entry point of the application
 - `agent_system.py`: Implements the multi-agent scanning system
 - `plugin_manager.py`: Manages loading and running of plugins
@@ -134,14 +129,5 @@ To create documentation for your plugin, follow these steps:
 - `plugins/`: Directory containing all scanning plugins
 - `Dockerfile`: Defines the Docker image for the project
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Disclaimer
-
-This tool is for educational and authorized testing purposes only. Always obtain permission before scanning any website you don't own or have explicit authorization to test.
